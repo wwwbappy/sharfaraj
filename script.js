@@ -29,7 +29,7 @@ x=null;
 document.write(x);
 document.write("<br>");
 document.write(typeof x);
-x+=y ---x=x+y-----
+
 
 
 var x=10;
@@ -53,7 +53,7 @@ if(10>10){
 let f, g, h;
 f=10;
 g=5;
-let a=7;
+let aaa=7;
 h= f-g;
 document.write(h);
 
@@ -366,21 +366,10 @@ function hello() {
     document.write("Welcome");
 
 }
-loop
 
-  intialization
-  condition true increasement decrement 
-  statement
 
-    jj++ jj= jj+1
-    10 9 8 7 6 5 4 3
-    if true false 
-    while loop
-    for loop 
-    do/while loop
-    for/inloop (object)
-    for each(array)
 
+  
 document.write("hello world");
 document.write("hello world");
 document.write("hello world");
@@ -467,4 +456,3 @@ for(var nn=5 ; nn<=10; nn++ ) {
 
 var oo=[10,20,30,40];
 document.write(oo[3]);
-
