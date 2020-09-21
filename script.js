@@ -1,4 +1,4 @@
-/*var a,b,c;
+var a,b,c;
 a=10;
 b=3;
 c=a+b;
@@ -459,7 +459,7 @@ for(var nn=5 ; nn<=10; nn++ ) {
 
     }
 }
-*/
+
 
 // strings number...boolean....null...undefined ..array
 //var a=10;
